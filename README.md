@@ -23,9 +23,17 @@ These are the basic requirements for your application:
 
 		cd JSOnDemand
 
+0. Download dependencies by npm:
+
+		npm install
+
 0. Download dependencies by bower:
 
 		bower install
+		
+0. Execute grunt default task:
+
+		grunt
 
 0. Install the node http-server:
 
@@ -40,38 +48,3 @@ These are the basic requirements for your application:
 		127.0.0.1:8080
 
 
-#### Directory 01 && 02
-
-0. Surf through the directories `01` && `02` with the console opened.
-
-
-
-#### Directory 03
-
-0. To view the directory `03`, first of all you'll need install the dependencies.
-
-0. Go to directory `cd 03` and install them:
-
-		npm i
-
-0. Execute grunt default task:
-
-		grunt
-
-
-
-#### Directory 04
-
-0. To view the directory `04`, first of all you'll need install the dependencies.
-
-0. Go to directory `cd 04` and install them:
-
-		npm i
-
-0. Execute grunt default task:
-
-		grunt
-
-***
-
-Made with love by [Gabriel Zigolis](https://twitter.com/zigolis)!
