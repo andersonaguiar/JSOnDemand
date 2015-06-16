@@ -48,3 +48,6 @@ These are the basic requirements for your application:
 		127.0.0.1:8080
 
 
+## Credits
+
+[@zigolis](https://github.com/zigolis/)
